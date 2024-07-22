@@ -12,7 +12,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Токен вашего бота
-TOKEN = '7382618332:AAEl2u1YAY9yhCZcjLbNOTXiIslTtkhHNHY'
+TOKEN = 'some_tg_bot_token'
 
 # Включение ведения журнала
 logging.basicConfig(
